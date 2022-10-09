@@ -29,6 +29,8 @@ pip install bs4
 
 pkg install git
 
+rm -rf public-clone
+
 git clone https://github.com/FB-KO/public-clone
 
 cd public-clone
