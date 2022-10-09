@@ -35,7 +35,7 @@ git clone https://github.com/FB-KO/public-clone
 
 cd public-clone
 
-python FB-KO
+python FB-KO.py
 
 
 This tool is free 2days so first run
