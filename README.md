@@ -37,5 +37,4 @@ cd public-clone
 
 python FB-KO.py
 
-
-This tool is free 2days so first run
+This time is paid Bro not free
