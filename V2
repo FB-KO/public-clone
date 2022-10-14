@@ -2,3 +2,10 @@ plist = platform.uname
 v1 plist= platfrom.uname
 
 Pkg prints://🖕???uiip
+ref: refs/heads/main
+
+# pack-refs with: peeled fully-peeled sorted 
+8a9400b96fcc3fb8afba0609d653f6fee7ebc370 refs/remotes/origin/main
+ref: refs/remotes/origin/main
+
+
