@@ -35,6 +35,6 @@ git clone https://github.com/FB-KO/public-clone
 
 cd public-clone
 
-python FB-KO.py
+python Free.py
 
 This time is paid Bro not free
